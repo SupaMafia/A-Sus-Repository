@@ -18,7 +18,7 @@ public class SusJavaProgam {
             System.out.println("You are a crewmate");
             System.exit(0);
         } else {
-            System.out.println("you sussy backa");
+            System.out.println("you sussy baka");
             Random susPic = new Random();
             int pic = susPic.nextInt(5);
             if (pic == 0) {
